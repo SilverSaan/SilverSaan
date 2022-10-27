@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilverSaan, true name Pedro Silveira
+- 👋 Hi, I’m @SilverSaan, Pedro Silveira
 - 👀 I’m interested in learning, Operative Systems and Games.
 - 🌱 I’m currently learning Computer Science in general, and Rust as a side study
 - 📫 You can reach me by Github later when I'm a better programmer.
